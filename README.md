@@ -9,7 +9,9 @@ _Speed reading. Use this one weird trick to read quicker!_
 *^ Finished product ^*
 _____________________________________
 ## Inspiration
-(Evan)
+Our inspiration for this project stems from our interest in Rapid Serial Visual Presentation (RSVP) and its application to speed reading. The goal of RSVP is to enhance reading comprehension and decrease visual fatigue by quickly displaying words or a group of words in sequential order on a screen. This method minimizes eye movements and blinking while reading, increasing the readers' attentional focus.
+
+Some people have found great success using RSVP, increasing their reading speed from a usual average of about 150 words per minute to over 700+ words per minute with sufficient training. (Crazy, right?) Therefore, due to its potential for success, our goal was to create a program that could replicate this method of reading enhancement.
 
 ## How we built it
 We built ReadRunner all with Python 3 on Jupyter notebook because we all have experience using it in our coursework and wanted to expand the capabilities of Jupyter Notebook beyond what we were doing in class.
